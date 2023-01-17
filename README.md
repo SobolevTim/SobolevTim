@@ -7,7 +7,7 @@
 
 <h3 align="center">My codewars stats 👇
 
-[![codewars](https://www.codewars.com/users/TimofeySob/badges/small)](https://www.codewars.com/users/TimofeySob)</h3>
+[![codewars](https://www.codewars.com/users/TimofeySob/badges/large)](https://www.codewars.com/users/TimofeySob)</h3>
 
 
 <!--
