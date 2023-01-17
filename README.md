@@ -4,8 +4,7 @@
 <h2 align="center">I’m currently learning Python, SQL, JS.</h2>
 <h2 align="center">My codewors stats 👇</h2>
 [![codewars](https://www.codewars.com/users/TimofeySob/badges/large)](https://www.codewars.com/users/TimofeySob)
-
-
+[![codewars](https://www.codewars.com/users/TimofeySob/badges/small)](https://www.codewars.com/users/TimofeySob)
 <!--
 **SobolevTim/SobolevTim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
