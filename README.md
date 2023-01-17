@@ -1,8 +1,9 @@
-### Hi there 👋
-
 <h1 align="center">Hi there, I'm Timofey
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
+<h2 align="center"> My codewars stats
+<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" height="40" </h2>
 [![codewars](https://www.codewars.com/users/TimofeySob/badges/large)](https://www.codewars.com/users/TimofeySob)
 
 
