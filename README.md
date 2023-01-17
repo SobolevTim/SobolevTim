@@ -1,10 +1,10 @@
-<!--
+
 <h1 align="center">Hi there, I'm Timofey
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40"/></h1>
 <h3 align="center">I'm from Russia</h3>
-<h2 align="center">I’m currently learning Python, SQL, JS.</h2>
-<h2 align="center">My codewors stats 👇</h2>
--->
+<h3 align="center">I’m currently learning Python, SQL, JS.</h3>
+<h3 align="center">My codewors stats 👇</h3>
+
 [![codewars](https://www.codewars.com/users/TimofeySob/badges/large)](https://www.codewars.com/users/TimofeySob)
 
 
