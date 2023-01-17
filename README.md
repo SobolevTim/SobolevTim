@@ -5,7 +5,7 @@
 <h3 align="center">I’m currently learning Python, SQL, JS.</h3>
 <h3 align="center">My codewors stats 👇</h3>
 
-[![codewars](https://www.codewars.com/users/TimofeySob/badges/large)](https://www.codewars.com/users/TimofeySob)
+<h3 align="center">[![codewars](https://www.codewars.com/users/TimofeySob/badges/large)](https://www.codewars.com/users/TimofeySob)</h3>
 
 
 <!--
