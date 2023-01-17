@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi there, I'm Timofey from Saint-Petersburg 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40"/></h1>
-
 <h3 align="center">I’m currently learning Python, SQL, JS.</h3>
 
+<p dir="auto">
 <a href="https://t.me/sobolev_t" rel="nofollow"><img src="https://camo.githubusercontent.com/f33fc1072c02b69dc328e768706c3221f9f4405c45eb12817b3df5524564d858/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d54656c656772616d" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-blue?style=flat-square&amp;logo=Telegram" style="max-width: 100%;"></a>
 <a>[![codewars](https://www.codewars.com/users/TimofeySob/badges/small)](https://www.codewars.com/users/TimofeySob)</a>
-
+</p>
 
 <!--
 **SobolevTim/SobolevTim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
