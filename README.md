@@ -25,10 +25,9 @@
       <img src=https://user-images.githubusercontent.com/116799139/217264297-3dd7cb2f-bfc2-460d-ad2b-be373e4200ec.png alt="github" width="65" height="65"/>
     </p>
 
+<h3>Connect with me </h3>
+<a href="http://t.me/sobolev_t" rel="nofollow"><img src="https://camo.githubusercontent.com/f33fc1072c02b69dc328e768706c3221f9f4405c45eb12817b3df5524564d858/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d54656c656772616d" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-blue?style=flat-square&amp;logo=Telegram" style="max-width: 100%;"></a>
 
-
-<h3>Connect with me 
-<href="https://t.me/sobolev_t" rel="nofollow"><img src="https://camo.githubusercontent.com/f33fc1072c02b69dc328e768706c3221f9f4405c45eb12817b3df5524564d858/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d54656c656772616d" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-blue?style=flat-square&amp;logo=Telegram" style="max-width: 100%;"></h3>
 <!--
 <h3>My codewars stats 👇
 
