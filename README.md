@@ -3,13 +3,14 @@
 
 <h2> About me </h2>
  <h3><ol>
-    <li>🎓 I am currently learning Python and also interested in Web Development.</li>
+    <li>🎓 I am currently learning Go and also interested in Web Development.</li>
     <li>🎯 My goal is to change my main specialty and become a backend developer.</li>
     <li>✨ I like to understand and create various projects that help in life..</li>
 </ol></h3>
 
   <h3> My Language</h3>
     <p style="display: inline-block">
+      <img src=https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg alt="golang" width="70" height="70"/>
       <img src=https://user-images.githubusercontent.com/116799139/217260685-6ab65e67-bfcd-4615-afef-b2a47a94dee8.png alt="python" width="70" height="70"/>
       <img src=https://user-images.githubusercontent.com/116799139/217260957-4ba27856-89ff-4465-8c21-580c2063f1b5.png alt="javascript" width="53" height="65"/>
       <img src=https://user-images.githubusercontent.com/116799139/217261474-c8c6d3b5-ef8b-414c-876e-c1b30c78ebb1.png alt="sql" width="53" height="65"/>
