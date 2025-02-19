@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F76A&center=true&multiline=true&width=435&height=60&lines=Привет!+Меня+зовут+Тимофей;Я+Go-разработчик" alt="Typing SVG" />
   </a> 
 </h1>
+
 ## 📬 Контакты  
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](http://t.me/sobolev_t)  
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:ty.sobolev@yandex.ru)  
